@@ -1,0 +1,21 @@
+/* Side box on the left */
+.sidebar {
+  width: 190px;
+  background-color: #162232;
+  padding: 16px 10px;
+}
+
+.nav-list {
+  display: flex;
+  flex-direction:column;
+  gap: 6px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  padding: 10px 12px;
+  color: #cbd5e1;
+  font-size: 14px;
+}
+
